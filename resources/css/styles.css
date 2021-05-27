@@ -1,0 +1,43 @@
+body{
+
+    font-family: "Verdana", Geneva, Tahoma, sans-serif;
+
+    text-align: center;
+
+    background-color: #000;
+
+}
+
+/*headers*/
+
+
+.header-main{
+
+    font-weight: normal;
+    font-size: 50px;
+    color:#fff;
+
+}
+
+.headig-secondary{
+    font-weight: 300;
+    font-size: 42 px;
+
+}
+
+.header-terciary{
+    font-size: 21 px;
+    color:#808080;
+
+}
+
+
+/*links*/
+
+
+.link-cta{
+    color:#7fffd4;
+    font-size: 16 px;
+}
+
+
